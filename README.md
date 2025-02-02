@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Travis and I'm a Software Engineer at State Farm.</h2>
+<h2 align="center">Hi 👋! My name is Travis and I am a Software Engineer at State Farm.</h2>
 
 ###
 
