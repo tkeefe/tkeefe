@@ -38,14 +38,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/travis-keefe-969901132/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5ueHNocHpuZm10dGp2N2U1b2pyeGxpdTczc2tidzhud3c2bDYzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rU3796cN9zlELcc7z1/giphy.gif" />
 </div>
 
